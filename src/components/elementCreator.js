@@ -1,6 +1,7 @@
 export default function ElementCreator (info) {
     const { 
-        type, attributes , parent } = info;
+        type, attributes , parent
+    } = info;
     
     this.type = type;
     this.attributes = attributes;
