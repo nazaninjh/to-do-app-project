@@ -6,3 +6,7 @@ picking this project up months later, to practice some javaScript DOM and princi
 // implement CRUD // save data in localStorage
 // Create with submit // give each task a unique id with uuid
 // be able to click on the task, read and edit it, or delete it
+
+// Add babel
+
+// add check icons so the user can finish a task

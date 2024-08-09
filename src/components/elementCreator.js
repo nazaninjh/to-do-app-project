@@ -1,3 +1,6 @@
+// convert to factory function to avoid problems
+// with not typing 'new'
+
 export default function ElementCreator (info) {
     const { 
         type, attributes , parent
